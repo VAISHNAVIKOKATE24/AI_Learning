@@ -1,0 +1,19 @@
+# python
+__pycache__/
+*.pyc
+
+# env
+myenv/
+venv/
+.env
+
+# database
+*.db
+*.sqlite3
+
+# streamlit
+.streamlit/
+
+# system
+.DS_Store
+Thumbs.db
